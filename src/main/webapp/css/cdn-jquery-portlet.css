@@ -1,0 +1,16 @@
+
+div.cdnJQueryPortlet {
+    position: relative;
+    padding: 10px;
+    height: 60px;
+    margin: 0 7px 7px 7px;
+}
+div.cdnJQueryPortlet h2 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+div.cdnJQueryPortlet a {
+    text-decoration: underline;
+    color: #0000ff;
+}

@@ -1,0 +1,24 @@
+
+# virtual machine crash logs
+hs_err_pid*
+
+# Maven
+target/
+pom.xml.releaseBackup
+release.properties
+
+# IDE files
+.project
+.classpath
+.settings
+.idea
+*.ipr
+*.iml
+*.iws
+nb-configuration.xml
+
+# KDE
+.directory
+
+# OSX
+.DS_Store
